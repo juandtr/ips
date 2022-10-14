@@ -10,3 +10,7 @@ el paciente puede visualizar el perfil del médico y su ubicación en mapas.
 el paciente debe verificar su identidad a través del Lector de Huellas Dactilares / Reconocimiento facial
 el paciente podra gendar videoconferencia con el doctor
 el paciente podra acudir a urgencias por medio de videoconferencia
+
+run proyect ips
+$ npm install 
+$ expo start
